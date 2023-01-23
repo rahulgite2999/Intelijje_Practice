@@ -1,5 +1,5 @@
 Hi....this is just for practice
 
-This is second change I did in github portal.
+This is second change I did in gitHub portal.
 
-This one is done in Intelijje .
+This one is done in IntelliJ.
